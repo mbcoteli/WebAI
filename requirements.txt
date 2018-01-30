@@ -1,0 +1,9 @@
+werkzeug
+flask
+tornado
+numpy
+pandas
+pillow
+pyyaml
+ export PYTHONPATH=/media/mbcoteli/Mert_Works/caffe-master/python:$PYTHONPATH
+
